@@ -1,2 +1,2 @@
-## Hi there 👋
-<h1>I am Sainath Agalavi</h1>
+## Hi there👋
+<h1>I'm Sainath Agalavi</h1>
