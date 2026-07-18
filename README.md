@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sainath Agalavi
 
-## 🚀 Java Full Stack Developer | Final Year Electronics & Communication Engineering Student
+## 🚀 Java Full Stack Developer | Electronics & Communication Engineering Student
 
 I'm passionate about building scalable backend applications using Java and Spring Boot. I enjoy learning new technologies, solving programming problems, and developing real-world projects that strengthen my software development skills.
 
